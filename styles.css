@@ -171,12 +171,16 @@ h2 { font-size: clamp(32px, 4vw, 48px); letter-spacing: -.025em; }
 
 /* Footer */
 footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
-.footer-grid { display: grid; grid-template-columns: 1.4fr repeat(3, 1fr); gap: 42px; }
-.footer-logo { width: 230px; display: block; padding: 10px; background: white; }
+.footer-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); align-items: start; justify-items: center; gap: 36px; text-align: center; }
+.footer-grid > div { width: 100%; }
+.footer-logo { width: 210px; max-width: 100%; margin: 0 auto; display: block; padding: 10px; background: white; }
+.footer-markets { width: 130px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 8px; color: #d4d8dc; font-size: 13px; font-weight: 700; text-align: center; }
+.footer-markets img { width: 112px; height: auto; display: block; }
+.footer-markets:hover { color: var(--tm-white); text-decoration: none; }
 .footer-grid h3 { margin: 4px 0 18px; color: #9099a2; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; }
 .footer-grid p, .footer-grid address { margin: 0; color: #d4d8dc; font-size: 15px; font-style: normal; }
 .footer-grid a:hover { text-decoration: underline; }
-.footer-bottom { margin-top: 48px; padding-top: 18px; display: flex; justify-content: space-between; gap: 24px; border-top: 1px solid #303942; color: #9099a2; font-size: 13px; }
+.footer-bottom { margin-top: 48px; padding-top: 18px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 24px; border-top: 1px solid #303942; color: #9099a2; font-size: 13px; text-align: center; }
 .footer-bottom p { margin: 0; }
 .footer-bottom div { display: flex; gap: 20px; }
 .footer-bottom .privacy-link { color: #c5cbd1; font-size: 13px; text-decoration: underline; }
@@ -213,6 +217,7 @@ footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
   .shipping-layout { grid-template-columns: 1fr; gap: 36px; }
   .medication-list { grid-template-columns: repeat(2, 1fr); }
   .footer-grid { grid-template-columns: 1fr 1fr; }
+  .footer-grid > div:last-child { grid-column: 1 / -1; }
 }
 
 @media (max-width: 600px) {
@@ -231,6 +236,7 @@ footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
   .service-card h3 { min-height: 0; }
   .info-card h2, .info-card h3, .medication-list h2 { min-height: 0; }
   .service-grid, .content-grid, .compounding-overview, .medication-list, .footer-grid { grid-template-columns: 1fr; }
+  .footer-grid > div:last-child { grid-column: auto; }
   .footer-bottom { flex-direction: column; }
 }
 
