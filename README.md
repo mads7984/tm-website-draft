@@ -8,6 +8,7 @@ A responsive, multi-page website for Tower Medic Pharmacy. The site is built wit
 - `medications.html` — Compounded medication categories
 - `lab.html` — Laboratory and quality information
 - `history.html` — Pharmacy history
+- `shipping.html` — Licensed states and prescription shipping area
 - `contact.html` — Contact and refill information
 - `privacy.html` — HIPAA Notice of Privacy Practices
 
@@ -15,7 +16,7 @@ A responsive, multi-page website for Tower Medic Pharmacy. The site is built wit
 
 - `styles.css` — Site-wide layout, colors, typography, and responsive styles
 - `script.js` — Mobile navigation and footer links
-- `images/` — Tower Medic logo and other local image assets
+- `images/` — Tower Medic Pharmacy logo and other local image assets
 
 ## Preview locally
 
@@ -43,4 +44,3 @@ The primary brand color is `#034694`. The site uses a system font stack and does
 - HTML5
 - CSS3
 - Vanilla JavaScript
-
