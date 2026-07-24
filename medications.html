@@ -7,7 +7,7 @@
     <title>
       Medications | Tower Medic Pharmacy
     </title>
-    <link rel="stylesheet" href="./styles.css?v=20260716">
+    <link rel="stylesheet" href="./styles.css?v=20260724j">
   </head>
   <body>
     <a class="skip-link" href="#main">
@@ -45,59 +45,57 @@
           </p>
         </div>
       </section>
-      <section class="page-section">
-        <!--Make each tile a clickable link that then brings you to a list of compounds for that category-->
-        <div class="shell medication-list">
-          <article>
-            <h2>
-              Hormone Therapy
-            </h2>
-            <p>
-              Personalized hormone therapies designed to help restore balance, improve well-being, and support long-term health.
-            </p>
-          </article>
-          <article>
-            <h2>
-              Healthy Aging & Longevity
-            </h2>
-            <p>
-              Customized therapies that support healthy aging, vitality, cognitive function, and overall wellness at every stage of life.
-            </p>
-          </article>
-          <article>
-            <h2>
-              Restorative Sleep
-            </h2>
-            <p>
-              Personalized treatment options developed to promote deeper, more restorative sleep and improve overall quality of life.
-            </p>
-          </article>
-          <article>
-            <h2>
-              Athletic Performance
-            </h2>
-            <p>
-              Customized therapies designed to support performance, recovery, endurance, and injury rehabilitation for active lifestyles.
-            </p>
-          </article>
-          <article>
-            <h2>
-              Metabolic Health
-            </h2>
-            <p>
-              Physician-guided therapies that support healthy weight management, metabolism, and long-term wellness goals.
-            </p>
-          </article>
-          <article>
-            <h2>
-              Explore all Medications
-            </h2>
-            <p>
-              Discover our full range of personalized compounded medications and specialized treatment options.
-            </p>
-          </article>
+      <section class="page-section catalog-section">
+        <div class="shell">
+          <div class="catalog-heading">
+            <div>
+              <p class="eyebrow">Product catalog</p>
+              <h2>Browse Our Formulations</h2>
+            </div>
+            <p>Search by product, ingredient, dosage form, or strength. Availability requires a valid prescription and may vary.</p>
+          </div>
+
+          <div class="catalog-layout">
+            <aside class="catalog-sidebar" aria-label="Catalog filters">
+              <button class="catalog-clear" id="catalog-clear" type="button">Clear all filters</button>
+              <form class="catalog-controls" id="catalog-controls" role="search">
+                <details class="catalog-filter-group" open>
+                  <summary>Categories</summary>
+                  <div class="catalog-filter-options" id="category-filters"></div>
+                </details>
+                <details class="catalog-filter-group" open>
+                  <summary>Dosage form</summary>
+                  <div class="catalog-filter-options" id="dosage-filters"></div>
+                </details>
+                <details class="catalog-filter-group" open>
+                  <summary>Availability</summary>
+                  <div class="catalog-filter-options" id="availability-filters"></div>
+                </details>
+              </form>
+            </aside>
+
+            <div class="catalog-results">
+              <div class="catalog-toolbar">
+                <div class="catalog-pagination" id="catalog-pagination" aria-label="Catalog pages"></div>
+                <div class="catalog-field catalog-search-field">
+                  <label class="visually-hidden" for="catalog-search">Search medications</label>
+                  <input id="catalog-search" type="search" placeholder="Search medications" autocomplete="off">
+                </div>
+              </div>
+              <p class="catalog-count" id="catalog-count" aria-live="polite">Loading medications…</p>
+              <div class="product-catalog" id="product-catalog" aria-busy="true"></div>
+            </div>
+          </div>
+
+          <noscript>
+            <p class="catalog-message">JavaScript is required to browse the medication catalog. Please call <a href="tel:+18177108027">817-710-8027</a> for product information.</p>
+          </noscript>
         </div>
       </section>
+      <dialog class="medication-dialog" id="medication-dialog" aria-labelledby="medication-dialog-title">
+        <button class="medication-dialog-close" id="medication-dialog-close" type="button" aria-label="Close medication details">×</button>
+        <div id="medication-dialog-content"></div>
+      </dialog>
     </main>
     <footer>
       <div class="shell footer-grid">
@@ -154,7 +152,8 @@
         </p>
       </div>
     </footer>
-    <script src="script.js">
-    </script>
+    <script src="catalog-data.js?v=20260724j"></script>
+    <script src="medications.js?v=20260724j"></script>
+    <script src="script.js"></script>
   </body>
 </html>

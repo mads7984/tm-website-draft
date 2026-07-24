@@ -121,10 +121,69 @@ h2 { font-size: clamp(32px, 4vw, 48px); letter-spacing: -.025em; }
 .site-guide .info-card { display: block; transition: border-color .2s ease; }
 .site-guide .info-card:hover { border-color: var(--tm-blue); }
 .site-guide .info-card h3 { color: var(--tm-blue); }
-.medication-list { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--tm-border); border-left: 1px solid var(--tm-border); }
-.medication-list article { padding: 28px; border-right: 1px solid var(--tm-border); border-bottom: 1px solid var(--tm-border); }
-.medication-list h2 { min-height: 46px; margin-bottom: 10px; font-size: 20px; }
-.medication-list p { margin: 0; color: var(--tm-gray); font-size: 14px; }
+.catalog-section { background: var(--tm-white); }
+.catalog-heading { margin-bottom: 34px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 480px); gap: 48px; align-items: end; }
+.catalog-heading h2 { margin-bottom: 0; }
+.catalog-heading > p { margin: 0 0 5px; color: var(--tm-gray); }
+.catalog-layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 46px; align-items: start; }
+.catalog-sidebar { position: static; }
+.catalog-controls { padding: 0; }
+.catalog-field label { margin-bottom: 7px; display: block; font-size: 13px; font-weight: 700; }
+.catalog-field input { width: 100%; height: 48px; padding: 0 15px; color: var(--tm-black); background: var(--tm-white); border: 1px solid #b8c2cc; border-radius: 4px; font: inherit; font-size: 15px; }
+.catalog-field input:focus { outline: 3px solid rgba(3, 70, 148, .2); border-color: var(--tm-blue); }
+.catalog-filter-group { margin: 0 0 34px; padding: 0; border: 0; }
+.catalog-filter-group summary { position: relative; padding: 0 30px 14px 0; color: var(--tm-black); font-size: 23px; font-weight: 700; line-height: 1.2; list-style: none; cursor: pointer; }
+.catalog-filter-group summary::-webkit-details-marker { display: none; }
+.catalog-filter-group summary::after { content: "−"; position: absolute; top: 0; right: 2px; color: var(--tm-blue); font-size: 24px; font-weight: 400; }
+.catalog-filter-group:not([open]) summary::after { content: "+"; }
+.catalog-filter-group:not([open]) summary { padding-bottom: 0; }
+.catalog-filter-options { display: grid; gap: 10px; }
+.catalog-filter-option { display: grid; grid-template-columns: 20px minmax(0, 1fr); gap: 10px; align-items: start; color: var(--tm-black); font-size: 14px; line-height: 1.35; cursor: pointer; }
+.catalog-filter-option input { width: 19px; height: 19px; margin: 0; accent-color: var(--tm-blue); }
+.catalog-filter-option:has(input:checked) { color: var(--tm-blue-dark); font-weight: 700; }
+.catalog-filter-label { display: flex; justify-content: space-between; gap: 8px; }
+.catalog-filter-count { flex: 0 0 auto; color: #7b858e; font-size: 11px; }
+.catalog-clear { width: 100%; min-height: 44px; margin-bottom: 24px; padding: 8px 14px; color: var(--tm-blue); background: var(--tm-white); border: 1px solid var(--tm-blue); font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
+.catalog-clear:hover { color: var(--tm-white); background: var(--tm-blue); }
+.catalog-results { min-width: 0; }
+.catalog-toolbar { min-height: 52px; margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center; gap: 24px; }
+.catalog-search-field { width: min(340px, 100%); margin-left: auto; }
+.catalog-pagination { display: flex; gap: 8px; }
+.catalog-page-button { width: 42px; height: 42px; color: var(--tm-black); background: var(--tm-white); border: 1px solid transparent; border-radius: 4px; font: inherit; font-weight: 700; cursor: pointer; }
+.catalog-page-button:hover { color: var(--tm-blue); border-color: var(--tm-blue); }
+.catalog-page-button.active { color: var(--tm-white); background: var(--tm-blue); border-color: var(--tm-blue); }
+.catalog-count { margin: 0 0 10px; color: var(--tm-gray); font-size: 13px; }
+.product-catalog { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.medication-card { min-height: 210px; padding: 26px; display: flex; flex-direction: column; background: var(--tm-white); border: 1px solid var(--tm-border); transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease; }
+.medication-card:hover { border-color: #9db5d0; box-shadow: 0 12px 28px rgba(2, 52, 111, .08); transform: translateY(-2px); }
+.medication-card-body { margin-bottom: 28px; }
+.medication-card-title { margin: 0 0 14px; color: var(--tm-black); font-size: 21px; line-height: 1.3; }
+.medication-card-category { margin: 0 0 10px; color: var(--tm-blue); font-size: 13px; font-weight: 700; }
+.medication-card-forms { margin: 0; color: var(--tm-gray); font-size: 14px; }
+.medication-card-link { margin-top: auto; padding: 0; align-self: flex-start; color: var(--tm-blue); background: transparent; border: 0; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
+.medication-card-link::after { content: " →"; }
+.medication-card-link:hover { color: var(--tm-blue-dark); text-decoration: underline; }
+.catalog-message { margin: 0; padding: 34px !important; color: var(--tm-gray); background: var(--tm-gray-light); text-align: center; }
+.catalog-message a { color: var(--tm-blue); font-weight: 700; text-decoration: underline; }
+.medication-dialog { width: min(820px, calc(100% - 32px)); max-height: calc(100vh - 48px); padding: 42px; color: var(--tm-black); background: var(--tm-white); border: 0; box-shadow: 0 24px 70px rgba(0, 0, 0, .25); }
+.medication-dialog::backdrop { background: rgba(17, 24, 32, .62); }
+.medication-dialog-close { position: absolute; top: 14px; right: 16px; width: 38px; height: 38px; color: var(--tm-blue); background: var(--tm-white); border: 1px solid var(--tm-border); font-size: 25px; line-height: 1; cursor: pointer; }
+.medication-dialog-close:hover { color: var(--tm-white); background: var(--tm-blue); border-color: var(--tm-blue); }
+.medication-dialog h2 { margin-bottom: 14px; padding-right: 32px; font-size: clamp(30px, 4vw, 44px); }
+.medication-dialog-intro { max-width: 650px; margin: 0 0 28px; color: var(--tm-gray); }
+.medication-options { display: grid; gap: 16px; }
+.medication-option { padding: 22px; background: var(--tm-gray-light); border-left: 3px solid var(--tm-blue); }
+.medication-option-heading { margin-bottom: 12px; display: flex; justify-content: space-between; align-items: baseline; gap: 20px; }
+.medication-option-heading h3 { margin: 0; font-size: 20px; }
+.medication-packaging { color: var(--tm-gray); font-size: 13px; font-weight: 700; }
+.medication-option-meta { margin-bottom: 18px; display: flex; flex-wrap: wrap; gap: 7px; }
+.medication-availability-tag, .medication-sterile-tag { padding: 5px 8px; color: var(--tm-blue-dark); background: var(--tm-white); border: 1px solid #c9d8e7; font-size: 11px; font-weight: 700; }
+.medication-sterile-tag { color: #18613b; border-color: #afd1bd; }
+.medication-option h4 { margin: 0 0 8px; font-size: 13px; }
+.medication-strength-list { margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 22px; list-style: none; }
+.medication-strength-list li { padding: 6px 0; color: var(--tm-gray); border-bottom: 1px solid var(--tm-border); font-size: 13px; }
+.medication-dialog-note { margin: 26px 0 0; padding-top: 18px; color: var(--tm-gray); border-top: 1px solid var(--tm-border); font-size: 13px; }
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .contact-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; align-items: stretch; }
 .contact-card { min-width: 0; padding: 30px; display: flex; flex-direction: column; border: 1px solid var(--tm-border); }
 .contact-card h2 { min-height: 60px; margin-bottom: 16px; font-size: 26px; }
@@ -215,7 +274,9 @@ footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
   .compounding-overview .info-card h2, .contact-card h2 { min-height: 0; }
   .facility-grid, .contact-grid { grid-template-columns: 1fr; gap: 30px; }
   .shipping-layout { grid-template-columns: 1fr; gap: 36px; }
-  .medication-list { grid-template-columns: repeat(2, 1fr); }
+  .catalog-heading { grid-template-columns: 1fr; gap: 14px; }
+  .catalog-layout { grid-template-columns: 210px minmax(0, 1fr); gap: 28px; }
+  .product-catalog { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .footer-grid > div:last-child { grid-column: 1 / -1; }
 }
@@ -234,8 +295,15 @@ footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
   .legacy-photo { margin-bottom: 40px; }
   .legacy-milestone { grid-template-columns: 1fr; gap: 8px; }
   .service-card h3 { min-height: 0; }
-  .info-card h2, .info-card h3, .medication-list h2 { min-height: 0; }
-  .service-grid, .content-grid, .compounding-overview, .medication-list, .footer-grid { grid-template-columns: 1fr; }
+  .info-card h2, .info-card h3 { min-height: 0; }
+  .service-grid, .content-grid, .compounding-overview, .footer-grid { grid-template-columns: 1fr; }
+  .catalog-layout { grid-template-columns: 1fr; gap: 28px; }
+  .catalog-filter-options { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 18px; }
+  .catalog-toolbar { align-items: stretch; flex-direction: column-reverse; }
+  .catalog-search-field { width: 100%; margin-left: 0; }
+  .catalog-pagination { flex-wrap: wrap; }
+  .medication-dialog { padding: 34px 22px 24px; }
+  .medication-strength-list { grid-template-columns: 1fr; }
   .footer-grid > div:last-child { grid-column: auto; }
   .footer-bottom { flex-direction: column; }
 }

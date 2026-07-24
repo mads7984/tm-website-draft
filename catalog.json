@@ -1,0 +1,4105 @@
+{
+  "catalog": {
+    "title": "Medication Catalog",
+    "version": 2,
+    "card_display": [
+      "title",
+      "dosage_forms"
+    ],
+    "detail_display": [
+      "available_options",
+      "strengths",
+      "packaging",
+      "availability"
+    ],
+    "filter_options": {
+      "categories": [
+        "Athletic Performance & Recovery",
+        "Dermatology & Aesthetics",
+        "Fertility & Reproductive Health",
+        "Gastrointestinal & Rectal Care",
+        "General & Specialty Medications",
+        "General Wellness & Nutrient Support",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Men's Health",
+        "Metabolic Health",
+        "Nausea & Symptom Relief",
+        "Oral & Symptom Relief",
+        "Pain Management & Procedural Care",
+        "Restorative Sleep",
+        "Sexual Health",
+        "Thyroid Health",
+        "Women's Health"
+      ],
+      "dosage_forms": [
+        "Capsule",
+        "Cream",
+        "Dropper",
+        "Gel",
+        "Injection",
+        "Nasal Spray",
+        "ODT",
+        "Ointment",
+        "Powder",
+        "Suppository",
+        "Suspension",
+        "Tablet",
+        "Topical Solution",
+        "Troche"
+      ],
+      "availability": [
+        "Sterile Compounded",
+        "Non-Sterile Compounded",
+        "Manufactured"
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "5-amino-mots-c-nad",
+      "slug": "5-amino-mots-c-nad",
+      "name": "5-Amino / MOTS-C / NAD+",
+      "card": {
+        "title": "5-Amino / MOTS-C / NAD+",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Athletic Performance & Recovery",
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "5-Amino / MOTS-C / NAD+",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "2.5 mg / 10 mg / 50 mg/mL",
+              "5 mg / 10 mg / 50 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "5-Amino / MOTS-C / NAD+ Inj. 2.5mg/10mg/50mg/mL (2.5mL)",
+              "5-Amino / MOTS-C / NAD+ Inj. 5mg/10mg/50mg/mL (2.5mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "5-Amino / MOTS-C / NAD+",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Metabolic Health",
+        "NAD",
+        "Pen",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "5-amino-nad",
+      "slug": "5-amino-nad",
+      "name": "5-Amino / NAD+",
+      "card": {
+        "title": "5-Amino / NAD+",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "5-Amino / NAD+",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "2.5 mg / 25 mg/mL",
+              "2.5 mg / 50 mg/mL",
+              "5 mg / 50 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "5-Amino / NAD+ Inj. 2.5mg/50mg/mL (2.5mL)",
+              "5-Amino / NAD+ Inj. 2.5mg/25mg/mL (2.5mL) (Pen)",
+              "5-Amino / NAD+ Inj. 5mg/50mg/mL (2.5mL) (Pen)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "2.5 mg / 25 mg/mL",
+              "2.5 mg / 50 mg/mL",
+              "5 mg / 50 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "5-Amino / NAD+ Inj. 2.5mg/50mg/mL (2.5mL)",
+              "5-Amino / NAD+ Inj. 5mg/50mg/mL (2.5mL) (Vial)",
+              "5-Amino / NAD+ Inj. 2.5mg/25mg/mL (2.5mL) (Vial)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "5-Amino / NAD+",
+        "Healthy Aging & Longevity",
+        "Metabolic Health",
+        "NAD",
+        "Pen",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "benadryl-maalox-lidocaine-1-1-1",
+      "slug": "benadryl-maalox-lidocaine-1-1-1",
+      "name": "Benadryl/Maalox/Lidocaine (1:1:1)",
+      "card": {
+        "title": "Benadryl/Maalox/Lidocaine (1:1:1)",
+        "dosage_forms": [
+          "Suspension"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Oral & Symptom Relief"
+        ],
+        "dosage_forms": [
+          "Suspension"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Benadryl/Maalox/Lidocaine (1:1:1)",
+        "available_options": [
+          {
+            "dosage_form": "Suspension",
+            "packaging": "Suspension",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Benadryl/Maalox/Lidocaine (1:1:1) Oral Suspension"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Benadryl/Maalox/Lidocaine (1:1:1)",
+        "Lidocaine",
+        "Oral & Symptom Relief",
+        "Suspension",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "bi-est",
+      "slug": "bi-est",
+      "name": "Bi-Est",
+      "card": {
+        "title": "Bi-Est",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Bi-Est",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "6MG/mL",
+              "8 mg/mL",
+              "12MG/mL"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Bi-Est 6MG/mL 80:20 (TopiClick Dispenser 90g)",
+              "Bi-Est 6MG/mL 80:20 (TopiClick Dispenser 15g)",
+              "Bi-Est 6MG/mL 80:20 (TopiClick Dispenser 45g)",
+              "Bi-Est 8mg/mL 80:20 (TopiClick Dispenser 15g)",
+              "Bi-Est 8MG/mL 80:20 (TopiClick Dispenser 30g)",
+              "Bi-Est 8MG/mL 80:20 (TopiClick Dispenser 45g)",
+              "Bi-Est 8MG/mL 80:20 (TopiClick Dispenser 90g)",
+              "Bi-Est 12MG/mL 80:20 (TopiClick Dispenser 45g)",
+              "Bi-Est 12MG/mL 80:20 (TopiClick Dispenser 15g)",
+              "Bi-Est 12MG/mL 80:20 (TopiClick Dispenser 30g)",
+              "Bi-Est 6MG/mL 80:20 (TopiClick Dispenser 30g)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Bi-Est",
+        "Bi-Est 6MG/mL 80:20 (TopiClick Dispenser 30g)",
+        "Biest",
+        "Cream",
+        "Hormone Therapy",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "bimatoprost",
+      "slug": "bimatoprost",
+      "name": "Bimatoprost",
+      "card": {
+        "title": "Bimatoprost",
+        "dosage_forms": [
+          "Topical Solution"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Topical Solution"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Bimatoprost",
+        "available_options": [
+          {
+            "dosage_form": "Topical Solution",
+            "packaging": "Dropper Vial",
+            "strengths": [
+              "0.03%"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Bimatoprost Integral (Lash Growth Serum) 5mL"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Bimatoprost",
+        "Bimatoprost Eyelash",
+        "Bimatoprost Integral .03% - 5mL",
+        "Dermatology & Aesthetics",
+        "Dropper Vial",
+        "Topical Solution",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "blt-numbing-cream",
+      "slug": "blt-numbing-cream",
+      "name": "BLT Numbing Cream",
+      "card": {
+        "title": "BLT Numbing Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care",
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "BLT Numbing Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "20% / 23% / 10%",
+              "20% / 10%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Numbing Cream - BLT 20%-10%-10% 60gm (Benzocaine/Lidocaine/Tetracaine)",
+              "Numbing Cream - BLT 20%-23%-10% 100gm (Benzocaine/Lidocaine/Tetracaine)",
+              "Numbing Cream - BLT 20%-10%+10% 30gm (Benzocaine/Lidocaine/Tetracaine)"
+            ]
+          },
+          {
+            "dosage_form": "Cream",
+            "packaging": "Pump",
+            "strengths": [
+              "20% / 10%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Numbing Cream - BLT 2gm x 5 (Benzocaine 20%/Lidocaine 10%/Tetracaine 10%)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "BLT Numbing Cream",
+        "Benzocaine",
+        "Cream",
+        "Dermatology & Aesthetics",
+        "Lidocaine",
+        "Numbing Cream - BLT 100gm (Benzocaine 20%/Lidocaine 23%/Tetracaine 10%)",
+        "Numbing Cream - BLT 2gm x 5 (Benzocaine 20%/Lidocaine 10%/Tetracaine 10%)",
+        "Numbing Cream - BLT 30gm (Benzocaine 20%/Lidocaine 10%/Tetracaine 10%)",
+        "Numbing Cream - BLT 60gm (Benzocaine 20%/Lidocaine 10%/Tetracaine 10%)",
+        "Pain Management & Procedural Care",
+        "Pump",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "dhea-hyaluronic-acid-suppository",
+      "slug": "dhea-hyaluronic-acid-suppository",
+      "name": "DHEA / Hyaluronic Acid Suppository",
+      "card": {
+        "title": "DHEA / Hyaluronic Acid Suppository",
+        "dosage_forms": [
+          "Suppository"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health",
+          "Sexual Health"
+        ],
+        "dosage_forms": [
+          "Suppository"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "DHEA / Hyaluronic Acid Suppository",
+        "available_options": [
+          {
+            "dosage_form": "Suppository",
+            "packaging": "Suppository",
+            "strengths": [
+              "5.5MG / 5MG"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "DHEA 5.5MG / HA 5MG Suppository"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "DHEA / Hyaluronic Acid Suppository",
+        "DHEA",
+        "DHEA 5.5MG / HA 5MG Suppository",
+        "DHEA Age Hormone Support Supplement",
+        "Hormone Therapy",
+        "Sexual Health",
+        "Suppository",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "dhea-pregnenolone",
+      "slug": "dhea-pregnenolone",
+      "name": "DHEA / Pregnenolone",
+      "card": {
+        "title": "DHEA / Pregnenolone",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "DHEA / Pregnenolone",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "100 mg / 100 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "DHEA/Pregnenolone SR 100mg-100mg capsule"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "DHEA / Pregnenolone",
+        "Capsule",
+        "DHEA",
+        "DHEA Age Hormone Support Supplement",
+        "DHEA/Pregnenolone SR 100mg-100mg capsule",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pregnenolone",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "elation",
+      "slug": "elation",
+      "name": "Elation",
+      "card": {
+        "title": "Elation",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Elation",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Elation Men's (Apomorphine/Oxytocin/Sildafil/Tadalafil) - 15 Caps.",
+              "Tadalafil 5.5mg Capsules (30)",
+              "Tadalafil 25mg Capsules (30)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Elation",
+        "Capsule",
+        "Oxytocin",
+        "Sexual Health",
+        "Tadalafil",
+        "Tadalafil RDTs",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "elation-women-s",
+      "slug": "elation-women-s",
+      "name": "Elation Women's",
+      "card": {
+        "title": "Elation Women's",
+        "dosage_forms": [
+          "Dropper"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health",
+          "Women's Health"
+        ],
+        "dosage_forms": [
+          "Dropper"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Elation Women's",
+        "available_options": [
+          {
+            "dosage_form": "Dropper",
+            "packaging": "Dropper",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Elation Women's (PT141/Apomorphine/Oxytocin) - 15mL Oral"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Elation Women's",
+        "Dropper",
+        "Oxytocin",
+        "Sexual Health",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "elevate-cream",
+      "slug": "elevate-cream",
+      "name": "Elevate Cream",
+      "card": {
+        "title": "Elevate Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health",
+          "Men's Health"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Elevate Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Topi-Click",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Elevate (Male Sexual Arousal) Cream in Topi-Click Dispenser"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Elevate Cream",
+        "Elevate",
+        "Elevate Cream (Men's Version of Scream Cream)",
+        "Men's Health",
+        "Sexual Health",
+        "Topi-Click",
+        "Cream",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "enclomiphene",
+      "slug": "enclomiphene",
+      "name": "Enclomiphene",
+      "card": {
+        "title": "Enclomiphene",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Men's Health",
+          "Fertility & Reproductive Health"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Enclomiphene",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "12.5 mg",
+              "25 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Enclomiphene 12.5mg Caps (30)",
+              "Enclomiphene 12.5mg Caps (60)",
+              "Enclomiphene 12.5mg Caps (90)",
+              "Enclomiphene 25mg Caps (30)",
+              "Enclomiphene 25mg Caps (60)",
+              "Enclomiphene 25mg Caps (90)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Enclomiphene",
+        "Capsule",
+        "Enclomiphene Citrate",
+        "Fertility & Reproductive Health",
+        "Hormone Therapy",
+        "Men's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "estradiol-testosterone-triturate",
+      "slug": "estradiol-testosterone-triturate",
+      "name": "Estradiol / Testosterone Triturate",
+      "card": {
+        "title": "Estradiol / Testosterone Triturate",
+        "dosage_forms": [
+          "ODT"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health",
+          "Sexual Health"
+        ],
+        "dosage_forms": [
+          "ODT"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Estradiol / Testosterone Triturate",
+        "available_options": [
+          {
+            "dosage_form": "ODT",
+            "packaging": "ODT",
+            "strengths": [
+              "1.5 mg / 5 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Estradiol 1.5mg/Testosterone 5mg Triturate",
+              "Testosterone 5mg Triturate",
+              "Testosterone 2.5mg Triturate"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Estradiol / Testosterone Triturate",
+        "Estradiol",
+        "Estradiol 1.5mg/Testosterone 5mg Triturate",
+        "Estradiol Cypionate",
+        "Hormone Therapy",
+        "Odt",
+        "Sexual Health",
+        "Testosterone",
+        "Testosterone Cypionate",
+        "Testosterone Cypionate in MCT Oil",
+        "Testosterone Enanthate",
+        "Testosterone Nasal",
+        "Testosterone Topical",
+        "Women's Health",
+        "ODT",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "estradiol-testosterone-vaginal-cream",
+      "slug": "estradiol-testosterone-vaginal-cream",
+      "name": "Estradiol / Testosterone Vaginal Cream",
+      "card": {
+        "title": "Estradiol / Testosterone Vaginal Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health",
+          "Sexual Health"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Estradiol / Testosterone Vaginal Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "2 mg / 2 mg/g"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Estradiol 2mg -Testosterone 2mg/gm Vaginal Cream #9gm"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Estradiol / Testosterone Vaginal Cream",
+        "Cream",
+        "Estradiol",
+        "Estradiol 2mg -Testosterone 2mg/gm Vaginal Cream",
+        "Estradiol Cypionate",
+        "Hormone Therapy",
+        "Sexual Health",
+        "Testosterone",
+        "Testosterone Cypionate",
+        "Testosterone Cypionate in MCT Oil",
+        "Testosterone Enanthate",
+        "Testosterone Nasal",
+        "Testosterone Topical",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "estriol-copper-peptide-face-cream",
+      "slug": "estriol-copper-peptide-face-cream",
+      "name": "Estriol / Copper Peptide Face Cream",
+      "card": {
+        "title": "Estriol / Copper Peptide Face Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics",
+          "Hormone Therapy",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Estriol / Copper Peptide Face Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Pump",
+            "strengths": [
+              "0.3%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Estriol 0.3% in Copper Peptide Cream for Face"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Estriol / Copper Peptide Face Cream",
+        "Dermatology & Aesthetics",
+        "Estriol 0.3% in Copper Peptide Cream for Face",
+        "Estriol Vaginal Cream",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pump",
+        "Cream",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "estriol-progesterone-cream",
+      "slug": "estriol-progesterone-cream",
+      "name": "Estriol / Progesterone Cream",
+      "card": {
+        "title": "Estriol / Progesterone Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Estriol / Progesterone Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "4 mg/g / 20 mg/g"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Progesterone 150mg/mL - 30mL Cream",
+              "Estriol 4mg/gm & Progesterone 20mg/gm - (Topiclick Dispenser 15g)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Estriol / Progesterone Cream",
+        "Cream",
+        "Estriol Vaginal Cream",
+        "Estriol/Progesterone Cream",
+        "Hormone Therapy",
+        "Progesterone",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "estriol-face-cream",
+      "slug": "estriol-face-cream",
+      "name": "Estriol Face Cream",
+      "card": {
+        "title": "Estriol Face Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics",
+          "Hormone Therapy",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Estriol Face Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Pump",
+            "strengths": [
+              "0.3%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Estriol 0.3%  Face Cream 90G",
+              "Estriol 0.3% Face Cream 45G"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Estriol Face Cream",
+        "Dermatology & Aesthetics",
+        "Estriol 0.3% Face Cream",
+        "Estriol 0.3% Face Cream 90G",
+        "Estriol Vaginal Cream",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pump",
+        "Cream",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "furosemide",
+      "slug": "furosemide",
+      "name": "Furosemide",
+      "card": {
+        "title": "Furosemide",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Furosemide",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "5 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Furosemide 5mg"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Furosemide",
+        "Capsule",
+        "General & Specialty Medications",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "glutacap",
+      "slug": "glutacap",
+      "name": "GlutaCAP",
+      "card": {
+        "title": "GlutaCAP",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "GlutaCAP",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "100 mg / 50 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "GlutaCAP Capsule (glutathione 100mg-inositol 100mg-niacinamide 50mg)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "GlutaCAP",
+        "Capsule",
+        "General Wellness & Nutrient Support",
+        "GlutaCAP Capsule (glutathione-inositol-niacinamide)",
+        "Glutathione",
+        "Healthy Aging & Longevity",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "glutacap-plus",
+      "slug": "glutacap-plus",
+      "name": "GlutaCAP Plus",
+      "card": {
+        "title": "GlutaCAP Plus",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "GlutaCAP Plus",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "200 mg / 100 mg / 50 mg / 250 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "GlutaCAP Plus Capsule (Glutathione 200mg-Inositol 100mg-Niacinamide 50mg-NMN 250mg)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "GlutaCAP Plus",
+        "Capsule",
+        "General Wellness & Nutrient Support",
+        "GlutaCAP Plus Capsule (Glutathione 200mg-Inositol 100mg-Niacinamide 50mg-NMN 250mg)",
+        "Glutathione",
+        "Healthy Aging & Longevity",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "glutathione",
+      "slug": "glutathione",
+      "name": "Glutathione",
+      "card": {
+        "title": "Glutathione",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support",
+          "Athletic Performance & Recovery"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Glutathione",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "200 mg/mL",
+              "333 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Glutathione 200mg/mL (2x3mL) (Pen 2)",
+              "Glutathione 333mg/mL (2 x 3mL) (Pen 2)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "200 mg/mL",
+              "333 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Glutathione 200mg/mL - 30mL Vial",
+              "Glutathione 333mg/mL (6.4mL) (Vial)",
+              "Glutathione 200mg/mL (6.4mL Vial)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY",
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Glutathione",
+        "Athletic Performance & Recovery",
+        "General Wellness & Nutrient Support",
+        "GLutathione",
+        "GLutathione (Ion Layer)",
+        "Healthy Aging & Longevity",
+        "Pen",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "hcg-pregnyl",
+      "slug": "hcg-pregnyl",
+      "name": "HCG (Pregnyl)",
+      "card": {
+        "title": "HCG (Pregnyl)",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Fertility & Reproductive Health",
+          "Men's Health"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "HCG (Pregnyl)",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Pregnyl HCG (Human Chorionic Gonadotropin) Injection Vial"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "HCG (Pregnyl)",
+        "Fertility & Reproductive Health",
+        "HCG",
+        "Hormone Therapy",
+        "Men's Health",
+        "Pregnyl HCG (Human Chorionic Gonadotropin)",
+        "Vial",
+        "Injection",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "hydroquinone-combination-gel",
+      "slug": "hydroquinone-combination-gel",
+      "name": "Hydroquinone Combination Gel",
+      "card": {
+        "title": "Hydroquinone Combination Gel",
+        "dosage_forms": [
+          "Gel"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Gel"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Hydroquinone Combination Gel",
+        "available_options": [
+          {
+            "dosage_form": "Gel",
+            "packaging": "Gel",
+            "strengths": [
+              "4% / 1% / 0.05%",
+              "4% / 3% / 0.025%",
+              "6% / 1% / 0.05%",
+              "8% / 1% / 0.05%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Hydroquinone 4% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 5% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 6% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 8% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 8% / Hydrocortisone 1% / Tretinoin .05% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 4% / Hydrocortisone 1% / Tretinoin .05% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 6% / Hydrocortisone 1% / Tretinoin .05% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 4% / Kojic Acid 3% / Tretinoin .025% - 30g in W06 Anhydrous Gel",
+              "Hydroquinone 4% / Kojic Acid 2% - 30g in W06 Anhydrous Gel"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Hydroquinone Combination Gel",
+        "Dermatology & Aesthetics",
+        "Gel",
+        "Hydrocortisone",
+        "Hydroquinone",
+        "Tretinoin",
+        "Tretinoin Cream",
+        "Tretinoin TAAN",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "ivermectin",
+      "slug": "ivermectin",
+      "name": "Ivermectin",
+      "card": {
+        "title": "Ivermectin",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Ivermectin",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "6 mg",
+              "9 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ivermectin 9mg Capsule",
+              "Ivermectin 6mg Capsule"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Ivermectin",
+        "Capsule",
+        "General & Specialty Medications",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "ivermectin-aloe-rosacea-cream",
+      "slug": "ivermectin-aloe-rosacea-cream",
+      "name": "Ivermectin / Aloe Rosacea Cream",
+      "card": {
+        "title": "Ivermectin / Aloe Rosacea Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Ivermectin / Aloe Rosacea Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Topi-Click",
+            "strengths": [
+              "1.5% / 3%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ivermectin 1.5% / Aloe 3% - Rosacea Topical Cream"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Ivermectin / Aloe Rosacea Cream",
+        "Dermatology & Aesthetics",
+        "Ivermectin",
+        "Ivermectin 1.5% / Aloe 3% - Rosacea Topical Cream",
+        "Topi-Click",
+        "Cream",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "ivermectin-mebendazole-ir",
+      "slug": "ivermectin-mebendazole-ir",
+      "name": "Ivermectin / Mebendazole IR",
+      "card": {
+        "title": "Ivermectin / Mebendazole IR",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Ivermectin / Mebendazole IR",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "50 mg / 200 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ivermectin 50mg/Mebendazole 200mg IR Cap",
+              "Ivermectin 9mg Capsule",
+              "Ivermectin 6mg Capsule"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Ivermectin / Mebendazole IR",
+        "Capsule",
+        "General & Specialty Medications",
+        "Ivermectin",
+        "Ivermectin 50mg/Mebendazole 200mg IR Cap",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "ivermectin-mebendazole-sr",
+      "slug": "ivermectin-mebendazole-sr",
+      "name": "Ivermectin / Mebendazole SR",
+      "card": {
+        "title": "Ivermectin / Mebendazole SR",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Ivermectin / Mebendazole SR",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "100 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ivermectin 9mg Capsule",
+              "Ivermectin 6mg Capsule",
+              "Ivermectin 100mg/Mebendazole 100mg SR Cap"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Ivermectin / Mebendazole SR",
+        "Capsule",
+        "General & Specialty Medications",
+        "Ivermectin",
+        "Ivermectin 100mg/Mebendazole 100mg SR Cap",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "ivermectin-ointment",
+      "slug": "ivermectin-ointment",
+      "name": "Ivermectin Ointment",
+      "card": {
+        "title": "Ivermectin Ointment",
+        "dosage_forms": [
+          "Ointment"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Ointment"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Ivermectin Ointment",
+        "available_options": [
+          {
+            "dosage_form": "Ointment",
+            "packaging": "Ointment",
+            "strengths": [
+              "1.1%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ivermectin Ointment 1.1% - 30gm"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Ivermectin Ointment",
+        "Dermatology & Aesthetics",
+        "Ivermectin",
+        "Ivermectin Ointment 1.1%",
+        "Ointment",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "lash-boost",
+      "slug": "lash-boost",
+      "name": "Lash Boost",
+      "card": {
+        "title": "Lash Boost",
+        "dosage_forms": [
+          "Topical Solution"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Topical Solution"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Lash Boost",
+        "available_options": [
+          {
+            "dosage_form": "Topical Solution",
+            "packaging": "Brush Pen",
+            "strengths": [
+              "0.035%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Lash Boost - Bimatoprost 0.035% Solution"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Lash Boost",
+        "Bimatoprost Eyelash",
+        "Brush Pen",
+        "Dermatology & Aesthetics",
+        "Topical Solution",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "lidocaine-diltiazem-ointment",
+      "slug": "lidocaine-diltiazem-ointment",
+      "name": "Lidocaine / Diltiazem Ointment",
+      "card": {
+        "title": "Lidocaine / Diltiazem Ointment",
+        "dosage_forms": [
+          "Ointment"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care",
+          "Gastrointestinal & Rectal Care"
+        ],
+        "dosage_forms": [
+          "Ointment"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Lidocaine / Diltiazem Ointment",
+        "available_options": [
+          {
+            "dosage_form": "Ointment",
+            "packaging": "Ointment",
+            "strengths": [
+              "2%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Lidocaine 2%-Diltiazem 2% Ointment"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Lidocaine / Diltiazem Ointment",
+        "Gastrointestinal & Rectal Care",
+        "Lidocaine",
+        "Lidocaine 2%-Diltiazem 2% Ointment",
+        "Ointment",
+        "Pain Management & Procedural Care",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "lidocaine-epinephrine-injection",
+      "slug": "lidocaine-epinephrine-injection",
+      "name": "Lidocaine / Epinephrine Injection",
+      "card": {
+        "title": "Lidocaine / Epinephrine Injection",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Lidocaine / Epinephrine Injection",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "2%"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Xylocaine (Lidocaine) HCL 2% + Epi  (25 x 20mL vials)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Lidocaine / Epinephrine Injection",
+        "Lidocaine",
+        "Pain Management & Procedural Care",
+        "Phenylephrine",
+        "Phenylephrine HCl",
+        "Vial",
+        "Xylocaine (Lidocaine) HCL 2% + Epi  20mL",
+        "Injection",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "lidocaine-prilocaine-phenylephrine-cream",
+      "slug": "lidocaine-prilocaine-phenylephrine-cream",
+      "name": "Lidocaine / Prilocaine / Phenylephrine Cream",
+      "card": {
+        "title": "Lidocaine / Prilocaine / Phenylephrine Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Lidocaine / Prilocaine / Phenylephrine Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "20% / 0.2%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Lidocaine 20% / Prilocaine 20% /  Phenylephrine .2% Cream (TopiClick Dispenser) 60 gm",
+              "Lidocaine 20% / Prilocaine 20% /  Phenylephrine .2% Cream (Topiclick Dispenser) 100 gm",
+              "Lidocaine 20% / Prilocaine 20% /  Phenylephrine .2% Cream (TopiClick Dispenser) 30"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Lidocaine / Prilocaine / Phenylephrine Cream",
+        "Cream",
+        "Lidocaine",
+        "Lidocaine  / Prilocaine  / Phenylephrine Cream",
+        "Pain Management & Procedural Care",
+        "Phenylephrine",
+        "Phenylephrine HCl",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "lidocaine-hcl",
+      "slug": "lidocaine-hcl",
+      "name": "Lidocaine HCl",
+      "card": {
+        "title": "Lidocaine HCl",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Lidocaine HCl",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "1%"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Lidocaine HCL 1% (25 x 50mL vials)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Lidocaine HCl",
+        "Lidocaine",
+        "Lidocaine HCL 1% 50mL",
+        "Pain Management & Procedural Care",
+        "Vial",
+        "Injection",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "lipo-b-c",
+      "slug": "lipo-b-c",
+      "name": "Lipo B+C",
+      "card": {
+        "title": "Lipo B+C",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Metabolic Health",
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Lipo B+C",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "100 / 50 / 1 / 50 / 25 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Lipo B+C 100/50/1/50/25mg/mL (10mL)",
+              "Lipo B+C 100/50/1/50/25mg/mL (4mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Lipo B+C",
+        "General Wellness & Nutrient Support",
+        "Lipo",
+        "Metabolic Health",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "metformin",
+      "slug": "metformin",
+      "name": "Metformin",
+      "card": {
+        "title": "Metformin",
+        "dosage_forms": [
+          "Tablet"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Tablet"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Metformin",
+        "available_options": [
+          {
+            "dosage_form": "Tablet",
+            "packaging": "Tablet",
+            "strengths": [
+              "500 mg",
+              "1000 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Metformin ER - 500mg - 90",
+              "Metformin ER - 1000mg Tablets - 90"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Metformin",
+        "Metabolic Health",
+        "Metformin Synergy",
+        "Metformin Tablet",
+        "Tablet",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "methylcobalamin",
+      "slug": "methylcobalamin",
+      "name": "Methylcobalamin",
+      "card": {
+        "title": "Methylcobalamin",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General Wellness & Nutrient Support",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Methylcobalamin",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Syringe",
+            "strengths": [
+              "1 mg/mL",
+              "2 mg"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Methylcobalamin 2mg/0.4mL x 8 Syringes (Total 3.2mL)",
+              "Methylcobalamin 1mg/ml Inj"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "2 mg"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Methylcobalamin 2mg/0.4mL x 8 Syringes (Total 3.2mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Methylcobalamin",
+        "General Wellness & Nutrient Support",
+        "Healthy Aging & Longevity",
+        "Syringe",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "methylene-blue",
+      "slug": "methylene-blue",
+      "name": "Methylene Blue",
+      "card": {
+        "title": "Methylene Blue",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Methylene Blue",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "10 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Methylene Blue Capsule 10mg (30)",
+              "Methylene Blue Oil Capsules 10mg (30)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Methylene Blue",
+        "Capsule",
+        "General & Specialty Medications",
+        "Healthy Aging & Longevity",
+        "Methylene Blue Capsule 10mg (30)",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "nad",
+      "slug": "nad",
+      "name": "NAD+",
+      "card": {
+        "title": "NAD+",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support",
+          "Athletic Performance & Recovery"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "NAD+",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "200 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "NAD+ 200mg/mL - 4mL",
+              "NAD+ 200mg/mL - 6mL",
+              "NAD+ 200mg/mL - 3mL",
+              "NAD+ 200mg/mL - 2mL",
+              "NAD+ 200mg/mL - 5mL (2x2.5mL)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "200 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "NAD+ 200mg/mL - 5mL",
+              "NAD+ 200mg/mL - 10mL",
+              "NAD+ 200mg/mL - 4mL",
+              "NAD+ 200mg/mL - 6mL",
+              "NAD+ 200mg/mL - 3mL",
+              "NAD+ 200mg/mL - 2mL",
+              "NAD+ 200mg/mL (1mL) - For infusion"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES",
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "NAD+",
+        "Athletic Performance & Recovery",
+        "General Wellness & Nutrient Support",
+        "Healthy Aging & Longevity",
+        "NAD",
+        "Pen",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "nad-nmn-nasal-spray",
+      "slug": "nad-nmn-nasal-spray",
+      "name": "NAD+ / NMN Nasal Spray",
+      "card": {
+        "title": "NAD+ / NMN Nasal Spray",
+        "dosage_forms": [
+          "Nasal Spray"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Nasal Spray"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "NAD+ / NMN Nasal Spray",
+        "available_options": [
+          {
+            "dosage_form": "Nasal Spray",
+            "packaging": "Nasal Spray",
+            "strengths": [
+              "2.5 mg / 5 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "NAD+ NMN PREMIUM 2.5mg-5mg/spray Nasal Spray (15ml)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "NAD+ / NMN Nasal Spray",
+        "General Wellness & Nutrient Support",
+        "Healthy Aging & Longevity",
+        "NAD",
+        "NAD+ NMN PREMIUM 2.5mg-5mg/spray Nasal Spray (15ml)",
+        "Spray",
+        "Nasal Spray",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "nad-nasal-spray",
+      "slug": "nad-nasal-spray",
+      "name": "NAD+ Nasal Spray",
+      "card": {
+        "title": "NAD+ Nasal Spray",
+        "dosage_forms": [
+          "Nasal Spray"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Nasal Spray"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "NAD+ Nasal Spray",
+        "available_options": [
+          {
+            "dosage_form": "Nasal Spray",
+            "packaging": "Nasal Spray",
+            "strengths": [
+              "3 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "NAD+ 3mg/spray Nasal Spray (10mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "NAD+ Nasal Spray",
+        "General Wellness & Nutrient Support",
+        "Healthy Aging & Longevity",
+        "NAD",
+        "NAD+ 3mg/spray Nasal Spray (10mL)",
+        "Spray",
+        "Nasal Spray",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "nadvantage-gel",
+      "slug": "nadvantage-gel",
+      "name": "NADVantage Gel",
+      "card": {
+        "title": "NADVantage Gel",
+        "dosage_forms": [
+          "Gel"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Gel"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "NADVantage Gel",
+        "available_options": [
+          {
+            "dosage_form": "Gel",
+            "packaging": "Gel",
+            "strengths": [
+              "10%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "NADVantage 10% Gel (30gm)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "NADVantage Gel",
+        "Dermatology & Aesthetics",
+        "Gel",
+        "Healthy Aging & Longevity",
+        "NADvantage",
+        "NADVantage 10% Gel (30gm)",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "naltrexone",
+      "slug": "naltrexone",
+      "name": "Naltrexone",
+      "card": {
+        "title": "Naltrexone",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications",
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Naltrexone",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "0.5 mg",
+              "1 mg",
+              "1.5 mg",
+              "2 mg",
+              "2.5 mg",
+              "3 mg",
+              "3.5 mg",
+              "4 mg",
+              "4.5 mg",
+              "5 mg",
+              "5.5 mg",
+              "6 mg",
+              "6.5 mg",
+              "7 mg",
+              "9 mg",
+              "9.5 mg",
+              "10 mg",
+              "12 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Low Dose Naltrexone - 0.5mg Capsule",
+              "Low Dose Naltrexone - 1mg Capsule",
+              "Low Dose Naltrexone - 1.5mg Capsule",
+              "Low Dose Naltrexone - 2mg Capsule",
+              "Low Dose Naltrexone - 2.5mg Capsule",
+              "Low Dose Naltrexone - 3mg Capsule",
+              "Low Dose Naltrexone - 3.5mg Capsule",
+              "Low Dose Naltrexone - 4mg Capsule",
+              "Low Dose Naltrexone - 4.5mg Capsule",
+              "Low Dose Naltrexone - 5mg Capsule",
+              "Low Dose Naltrexone - 5.5mg Capsule",
+              "Low Dose Naltrexone - 6mg Capsule",
+              "Low Dose Naltrexone - 6.5mg Capsule",
+              "Low Dose Naltrexone - 7mg Capsule",
+              "Low Dose Naltrexone - 9.5mg Capsule",
+              "Low Dose Naltrexone - 10mg Capsule",
+              "Low Dose Naltrexone - 12mg Capsule",
+              "Low Dose Naltrexone - 12mg Capsule #60",
+              "Low Dose Naltrexone - 9mg Capsule"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Naltrexone",
+        "Capsule",
+        "General & Specialty Medications",
+        "Low Dose Naltrexone - 9mg",
+        "Metabolic Health",
+        "Naltrexone HCl",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "np-thyroid",
+      "slug": "np-thyroid",
+      "name": "NP Thyroid",
+      "card": {
+        "title": "NP Thyroid",
+        "dosage_forms": [
+          "Tablet"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Thyroid Health",
+          "Hormone Therapy"
+        ],
+        "dosage_forms": [
+          "Tablet"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "NP Thyroid",
+        "available_options": [
+          {
+            "dosage_form": "Tablet",
+            "packaging": "Tablet",
+            "strengths": [
+              "15 mg",
+              "30 mg",
+              "60 mg",
+              "90 mg",
+              "120 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "NP Thyroid - 15mg Tablets - 90",
+              "NP Thyroid 30mg Tablets - 90",
+              "NP Thyroid 60mg Tablets - 90",
+              "NP Thyroid 90mg Tablets - 90",
+              "NP Thyroid 120mg Tablets - 90"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "NP Thyroid",
+        "Hormone Therapy",
+        "Nature Throid",
+        "Tablet",
+        "Thyroid Desiccated Porcine",
+        "Thyroid Health",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "ondansetron-odt",
+      "slug": "ondansetron-odt",
+      "name": "Ondansetron ODT",
+      "card": {
+        "title": "Ondansetron ODT",
+        "dosage_forms": [
+          "ODT"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Nausea & Symptom Relief"
+        ],
+        "dosage_forms": [
+          "ODT"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Ondansetron ODT",
+        "available_options": [
+          {
+            "dosage_form": "ODT",
+            "packaging": "Blister Card",
+            "strengths": [
+              "8 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ondansetron 8mg ODT (Zofran)"
+            ]
+          },
+          {
+            "dosage_form": "ODT",
+            "packaging": "ODT",
+            "strengths": [
+              "4 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Ondansetron 4mg ODT (Zofran)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Ondansetron ODT",
+        "Blistercard",
+        "Nausea & Symptom Relief",
+        "Odt",
+        "Ondansetron",
+        "ODT",
+        "Blister Card",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "oxytocin-powder",
+      "slug": "oxytocin-powder",
+      "name": "Oxytocin Powder",
+      "card": {
+        "title": "Oxytocin Powder",
+        "dosage_forms": [
+          "Powder"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Powder"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Oxytocin Powder",
+        "available_options": [
+          {
+            "dosage_form": "Powder",
+            "packaging": "Powder",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Oxytocin"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Oxytocin Powder",
+        "General & Specialty Medications",
+        "Hormone Therapy",
+        "Oxytocin",
+        "Oxytocin USP Powder",
+        "Powder",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "oxytocin-sublingual-drops",
+      "slug": "oxytocin-sublingual-drops",
+      "name": "Oxytocin Sublingual Drops",
+      "card": {
+        "title": "Oxytocin Sublingual Drops",
+        "dosage_forms": [
+          "Dropper"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health",
+          "Hormone Therapy"
+        ],
+        "dosage_forms": [
+          "Dropper"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Oxytocin Sublingual Drops",
+        "available_options": [
+          {
+            "dosage_form": "Dropper",
+            "packaging": "Dropper",
+            "strengths": [
+              "80 IU/mL"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Oxytocin 80 IU/mL SL Drops"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Oxytocin Sublingual Drops",
+        "Dropper",
+        "Hormone Therapy",
+        "Oxytocin",
+        "Oxytocin 80 IU/mL SL Drops",
+        "Sexual Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "phendimetrazine",
+      "slug": "phendimetrazine",
+      "name": "Phendimetrazine",
+      "card": {
+        "title": "Phendimetrazine",
+        "dosage_forms": [
+          "Tablet"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Tablet"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Phendimetrazine",
+        "available_options": [
+          {
+            "dosage_form": "Tablet",
+            "packaging": "Tablet",
+            "strengths": [
+              "35 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Phendimetrazine - 35mg Tablets - 30"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Phendimetrazine",
+        "Metabolic Health",
+        "Phendimetrazine Tablet",
+        "Phendimetrazine Tartrate",
+        "Tablet",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "phentermine",
+      "slug": "phentermine",
+      "name": "Phentermine",
+      "card": {
+        "title": "Phentermine",
+        "dosage_forms": [
+          "Tablet"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Metabolic Health"
+        ],
+        "dosage_forms": [
+          "Tablet"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Phentermine",
+        "available_options": [
+          {
+            "dosage_form": "Tablet",
+            "packaging": "Tablet",
+            "strengths": [
+              "37.5 mg"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Phentermine - 37.5mg Tablets - 30"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Phentermine",
+        "Metabolic Health",
+        "Phentermine HCl",
+        "Phentermine Tablet",
+        "Tablet",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "pregnenolone",
+      "slug": "pregnenolone",
+      "name": "Pregnenolone",
+      "card": {
+        "title": "Pregnenolone",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Pregnenolone",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "100 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Pregnenolone SR 100mg Cap"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Pregnenolone",
+        "Capsule",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pregnenolone SR 100mg Cap",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "progesterone",
+      "slug": "progesterone",
+      "name": "Progesterone",
+      "card": {
+        "title": "Progesterone",
+        "dosage_forms": [
+          "Capsule",
+          "Cream",
+          "Suppository"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health",
+          "Restorative Sleep"
+        ],
+        "dosage_forms": [
+          "Capsule",
+          "Cream",
+          "Suppository"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Progesterone",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "50 mg",
+              "100 mg",
+              "150 mg",
+              "200 mg",
+              "300 mg",
+              "400 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Progesterone  SR 100mg Capsule",
+              "Progesterone SR 200mg Capsule",
+              "Progesterone SR 400mg Capsule",
+              "Progesterone SR 150mg Capsule",
+              "Progesterone SR 300mg Capsule",
+              "Progesterone SR 50mg Capsule",
+              "Progesterone IR 200mg capsule"
+            ]
+          },
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "150 mg/mL"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Progesterone 150mg/mL - 30mL Cream"
+            ]
+          },
+          {
+            "dosage_form": "Suppository",
+            "packaging": "Suppository",
+            "strengths": [
+              "200 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Progesterone 200mg Supp"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Progesterone",
+        "Capsule",
+        "Cream",
+        "Hormone Therapy",
+        "Progesterone 200mg Supp",
+        "Progesterone IR 200mg capsule",
+        "Restorative Sleep",
+        "Supp",
+        "Women's Health",
+        "Suppository",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "rapamycin",
+      "slug": "rapamycin",
+      "name": "Rapamycin",
+      "card": {
+        "title": "Rapamycin",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Rapamycin",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "4 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Rapamycin 4mg"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Rapamycin",
+        "Capsule",
+        "General & Specialty Medications",
+        "Healthy Aging & Longevity",
+        "Sirolimus",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sermorelin",
+      "slug": "sermorelin",
+      "name": "Sermorelin",
+      "card": {
+        "title": "Sermorelin",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Athletic Performance & Recovery",
+          "Hormone Therapy"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Sermorelin",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "3 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (2.2mL)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "3 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
+              "Sermorelin Inj. 3mg/mL (2.2mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sermorelin",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pen",
+        "Sermorelin Acetate",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sermorelin-bpc-157-tb-500",
+      "slug": "sermorelin-bpc-157-tb-500",
+      "name": "Sermorelin / BPC-157 / TB-500",
+      "card": {
+        "title": "Sermorelin / BPC-157 / TB-500",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Athletic Performance & Recovery",
+          "Healthy Aging & Longevity"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Sermorelin / BPC-157 / TB-500",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "2 mg / 3 mg / 3.75 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (2.2mL)",
+              "Sermorelin / BPC-157 / TB-500 2mg/3mg/3.75mg/mL (4.5mL)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "2 mg / 3 mg / 3.75 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
+              "Sermorelin Inj. 3mg/mL (2.2mL)",
+              "Sermorelin / BPC-157 / TB-500 2mg/3mg/3.75mg/mL (4.5mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sermorelin / BPC-157 / TB-500",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Pen",
+        "Sermorelin",
+        "Sermorelin / BPC-157 / TB5-500",
+        "Sermorelin Acetate",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sermorelin-glycine",
+      "slug": "sermorelin-glycine",
+      "name": "Sermorelin / Glycine",
+      "card": {
+        "title": "Sermorelin / Glycine",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Athletic Performance & Recovery",
+          "Restorative Sleep"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Sermorelin / Glycine",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "5 mg / 12.5 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (2.2mL)",
+              "Sermorelin/Glycine 5mg/12.5mg/mL (2.4mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sermorelin / Glycine",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Pen",
+        "Restorative Sleep",
+        "Sermorelin",
+        "Sermorelin Acetate",
+        "Sermorelin/Glycine (Ion Layer)",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sermorelin-ipamorelin",
+      "slug": "sermorelin-ipamorelin",
+      "name": "Sermorelin / Ipamorelin",
+      "card": {
+        "title": "Sermorelin / Ipamorelin",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Athletic Performance & Recovery",
+          "Hormone Therapy"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Sermorelin / Ipamorelin",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Pen",
+            "strengths": [
+              "0.3 mg"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin/Ipamorelin Inj. 0.3mg/0.3mg (2mL)",
+              "Sermorelin Inj. 3mg/mL (2.2mL)"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "0.3 mg"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin/Ipamorelin Inj. 0.3mg/0.3mg (2mL)",
+              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
+              "Sermorelin Inj. 3mg/mL (2.2mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sermorelin / Ipamorelin",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Hormone Therapy",
+        "Pen",
+        "Sermorelin",
+        "Sermorelin Acetate",
+        "Sermorelin/Ipamorelin",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sermorelin-mots-c-epitalon",
+      "slug": "sermorelin-mots-c-epitalon",
+      "name": "Sermorelin / MOTS-C / Epitalon",
+      "card": {
+        "title": "Sermorelin / MOTS-C / Epitalon",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Healthy Aging & Longevity",
+          "Athletic Performance & Recovery"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Sermorelin / MOTS-C / Epitalon",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "1 mg / 5 mg / 2.5 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
+              "Sermorelin Inj. 3mg/mL (2.2mL)",
+              "Sermorelin / MOTS-C / Epitalon 1mg/5mg/2.5mg/mL (8.5mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sermorelin / MOTS-C / Epitalon",
+        "Athletic Performance & Recovery",
+        "Healthy Aging & Longevity",
+        "Sermorelin",
+        "Sermorelin Acetate",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "sodium-bicarbonate",
+      "slug": "sodium-bicarbonate",
+      "name": "Sodium Bicarbonate",
+      "card": {
+        "title": "Sodium Bicarbonate",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General & Specialty Medications"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Sodium Bicarbonate",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "8.4%"
+            ],
+            "availability": [
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Sodium BiCarb 8.4% (50mL vials)",
+              "Sodium BiCarb 8.4% (25 x 10mL vials)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Sodium Bicarbonate",
+        "General & Specialty Medications",
+        "Sodium BiCarb",
+        "Vial",
+        "Injection",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "t3-t4-thyroid",
+      "slug": "t3-t4-thyroid",
+      "name": "T3 / T4 Thyroid",
+      "card": {
+        "title": "T3 / T4 Thyroid",
+        "dosage_forms": [
+          "Capsule"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Thyroid Health",
+          "Hormone Therapy"
+        ],
+        "dosage_forms": [
+          "Capsule"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "T3 / T4 Thyroid",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "2.25 mcg / 9.5 mcg",
+              "4.5 mcg / 19 mcg",
+              "9 mcg / 38 mcg",
+              "12 mcg / 50 mcg",
+              "13.5 mcg / 57 mcg",
+              "18 mcg / 76 mcg",
+              "27 mcg / 114 mcg",
+              "35 mcg / 135 mcg",
+              "36 mcg / 152 mcg",
+              "11.25 mcg / 47.5 mcg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "T3 11.25mcg-T4 47.5mcg SR Capsule",
+              "T3 2.25 mcg / T4 9.5 mcg SR Capsule",
+              "T3 4.5 mcg / T4 19 mcg SR Capsule",
+              "T3 9 mcg / T4 38 mcg SR Capsule",
+              "T3 13.5 mcg / T4 57 mcg SR Capsule",
+              "T3 18 mcg / T4 76 mcg SR Capsule",
+              "T3 27 mcg / T4 114 mcg SR Capsule",
+              "T3 36 mcg / T4 152 mcg SR Capsule",
+              "T3 12 mcg / T4 50 mcg SR Capsule",
+              "T3 12 mcg / T4 50 mcg  SR Capsule",
+              "T3 35 mcg / T4 135 mcg SR Capsule"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER",
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "T3 / T4 Thyroid",
+        "Capsule",
+        "Hormone Therapy",
+        "Levothyroxine Sodium",
+        "Liothyronine",
+        "Liothyronine Sodium",
+        "T3 / T4 Thyroid Cap",
+        "T3 11.25mcg-T4 47.5mcg SR Capsule",
+        "Thyroid Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "tac-topical-anesthetic-gel",
+      "slug": "tac-topical-anesthetic-gel",
+      "name": "TAC Topical Anesthetic Gel",
+      "card": {
+        "title": "TAC Topical Anesthetic Gel",
+        "dosage_forms": [
+          "Gel"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Pain Management & Procedural Care",
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Gel"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "TAC Topical Anesthetic Gel",
+        "available_options": [
+          {
+            "dosage_form": "Gel",
+            "packaging": "Gel",
+            "strengths": [],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "TAC Gel (Tetracaine-Lidocaine-Phenylephrine)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "TAC Topical Anesthetic Gel",
+        "Dermatology & Aesthetics",
+        "Gel",
+        "Lidocaine",
+        "Pain Management & Procedural Care",
+        "Phenylephrine",
+        "Phenylephrine HCl",
+        "TAC Gel (Tetracaine-Lidocaine-Phenylephrine)",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "tadalafil",
+      "slug": "tadalafil",
+      "name": "Tadalafil",
+      "card": {
+        "title": "Tadalafil",
+        "dosage_forms": [
+          "Capsule",
+          "Troche"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health",
+          "Men's Health"
+        ],
+        "dosage_forms": [
+          "Capsule",
+          "Troche"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Tadalafil",
+        "available_options": [
+          {
+            "dosage_form": "Capsule",
+            "packaging": "Capsule",
+            "strengths": [
+              "5.5 mg",
+              "25 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Tadalafil 5.5mg Capsules (30)",
+              "Tadalafil 25mg Capsules (30)"
+            ]
+          },
+          {
+            "dosage_form": "Troche",
+            "packaging": "Troche",
+            "strengths": [
+              "10 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Tadalafil 10mg Troche (30)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Tadalafil",
+        "Capsule",
+        "Men's Health",
+        "Sexual Health",
+        "Tadalafil RDTs",
+        "Troche",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "testosterone",
+      "slug": "testosterone",
+      "name": "Testosterone",
+      "card": {
+        "title": "Testosterone",
+        "dosage_forms": [
+          "Injection",
+          "Cream",
+          "ODT",
+          "Troche"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Men's Health",
+          "Sexual Health",
+          "Athletic Performance & Recovery"
+        ],
+        "dosage_forms": [
+          "Injection",
+          "Cream",
+          "ODT",
+          "Troche"
+        ],
+        "availability": [
+          "Sterile Compounded",
+          "Non-Sterile Compounded",
+          "Manufactured"
+        ]
+      },
+      "detail": {
+        "title": "Testosterone",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "40 mg/mL",
+              "16 mg/g",
+              "40 mg/g",
+              "100 mg/g",
+              "200 mg/g",
+              "300 mg/g"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Testosterone 40mg/ml Cream",
+              "Testosterone 1-2-8-16 mg/gm - 30gm",
+              "Testosterone 40 mg/gm - 30gm",
+              "Testosterone 100 mg/gm - 30gm",
+              "Testosterone 200 mg/gm - 30gm",
+              "Testosterone 300 mg/gm - 30gm",
+              "Testosterone 1-2-8-16 mg/gm - 90gm",
+              "Testosterone 40 mg/gm - 90gm",
+              "Testosterone 100 mg/gm - 90gm",
+              "Testosterone 200 mg/gm - 90gm",
+              "Testosterone 300 mg/gm - 90gm"
+            ]
+          },
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "25 mg/mL",
+              "100 mg/mL",
+              "200 mg/mL"
+            ],
+            "availability": [
+              "Sterile Compounded",
+              "Manufactured"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Testosterone Cypionate Injectable - 200mg/mL (2 x 1mL vials)",
+              "Testosterone Cypionate Injectable - 200mg/mL (4 x 1mL vials)",
+              "Testosterone Cypionate Injectable - 200mg/mL (2 x 1mL + 1 x 10mL vials)",
+              "Testosterone Cypionate Injectable - 100mg/mL Vial",
+              "Testosterone Cypionate Inj. - 25mg/mL (1.5mL)"
+            ]
+          },
+          {
+            "dosage_form": "ODT",
+            "packaging": "ODT",
+            "strengths": [
+              "2.5 mg",
+              "5 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Testosterone 5mg Triturate",
+              "Testosterone 2.5mg Triturate"
+            ]
+          },
+          {
+            "dosage_form": "Troche",
+            "packaging": "Troche",
+            "strengths": [
+              "2 mg",
+              "20 mg",
+              "40 mg"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Testosterone 40mg Troche #30",
+              "Testosterone 20mg Troche #30",
+              "Testosterone 2mg Troche #30"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES",
+          "OTHER",
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Testosterone",
+        "Athletic Performance & Recovery",
+        "Cream",
+        "Hormone Therapy",
+        "Men's Health",
+        "Odt",
+        "Sexual Health",
+        "Testosterone 20mg Troche",
+        "Testosterone 40mg Troche",
+        "Testosterone 40mg/ml Cream",
+        "Testosterone Cream",
+        "Testosterone Cypionate",
+        "Testosterone Cypionate in MCT Oil",
+        "Testosterone Enanthate",
+        "Testosterone Injectable",
+        "Testosterone Nasal",
+        "Testosterone Topical",
+        "Testosterone Vaginal",
+        "Troche",
+        "Vial",
+        "Vigor Natural Testosterone Supplement",
+        "Injection",
+        "ODT",
+        "Sterile Compounded",
+        "Non-Sterile Compounded",
+        "Manufactured"
+      ]
+    },
+    {
+      "id": "testosterone-estradiol-dhea-cream",
+      "slug": "testosterone-estradiol-dhea-cream",
+      "name": "Testosterone / Estradiol / DHEA Cream",
+      "card": {
+        "title": "Testosterone / Estradiol / DHEA Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Hormone Therapy",
+          "Women's Health",
+          "Sexual Health"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Testosterone / Estradiol / DHEA Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "4 mg / 25 mg/g"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Testosterone 4mg/Estradiol 4mg /DHEA 25mg/gm Cream"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "HORMONE REPLACEMENT THERAPIES"
+        ]
+      },
+      "search_terms": [
+        "Testosterone / Estradiol / DHEA Cream",
+        "Cream",
+        "DHEA",
+        "DHEA Age Hormone Support Supplement",
+        "Estradiol",
+        "Estradiol Cypionate",
+        "Hormone Therapy",
+        "Sexual Health",
+        "Testosterone",
+        "Testosterone 4mg/Estradiol 4mg /DHEA 25mg/gm Cream",
+        "Testosterone Cypionate",
+        "Testosterone Cypionate in MCT Oil",
+        "Testosterone Enanthate",
+        "Women's Health",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "tretinoin-kojic-acid-ha-niacinamide-cream",
+      "slug": "tretinoin-kojic-acid-ha-niacinamide-cream",
+      "name": "Tretinoin / Kojic Acid / HA / Niacinamide Cream",
+      "card": {
+        "title": "Tretinoin / Kojic Acid / HA / Niacinamide Cream",
+        "dosage_forms": [
+          "Cream"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Cream"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Tretinoin / Kojic Acid / HA / Niacinamide Cream",
+        "available_options": [
+          {
+            "dosage_form": "Cream",
+            "packaging": "Cream",
+            "strengths": [
+              "0.025% / 3% / 1%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Tretinoin 0.025%-Kojic Acid 3%-HA 1%-Niacinamide 3% Cream"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Tretinoin / Kojic Acid / HA / Niacinamide Cream",
+        "Cream",
+        "Dermatology & Aesthetics",
+        "Tretinoin",
+        "Tretinoin 0.025%-Kojic Acid 3%-HA 1%-Niacinamide 3% Cream",
+        "Tretinoin Cream",
+        "Tretinoin TAAN",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "tretinoin-l-citrulline-gel",
+      "slug": "tretinoin-l-citrulline-gel",
+      "name": "Tretinoin / L-Citrulline Gel",
+      "card": {
+        "title": "Tretinoin / L-Citrulline Gel",
+        "dosage_forms": [
+          "Gel"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Dermatology & Aesthetics"
+        ],
+        "dosage_forms": [
+          "Gel"
+        ],
+        "availability": [
+          "Non-Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Tretinoin / L-Citrulline Gel",
+        "available_options": [
+          {
+            "dosage_form": "Gel",
+            "packaging": "Gel",
+            "strengths": [
+              "0.04% / 1%"
+            ],
+            "availability": [
+              "Non-Sterile Compounded"
+            ],
+            "sterile": false,
+            "catalog_names": [
+              "Tretinoin 0.04%/Citrulline-L 1% Topical Facial Gel"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "DERMATOLOGY"
+        ]
+      },
+      "search_terms": [
+        "Tretinoin / L-Citrulline Gel",
+        "Dermatology & Aesthetics",
+        "Gel",
+        "Tretinoin",
+        "Tretinoin 0.04%/Citrulline-L 1% Topical Facial Gel",
+        "Tretinoin Cream",
+        "Tretinoin TAAN",
+        "Non-Sterile Compounded"
+      ]
+    },
+    {
+      "id": "trimix",
+      "slug": "trimix",
+      "name": "Trimix",
+      "card": {
+        "title": "Trimix",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "Sexual Health",
+          "Men's Health"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Trimix",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Trimix 150/5/50 per 5mL"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "SEXUAL WELLNESS"
+        ]
+      },
+      "search_terms": [
+        "Trimix",
+        "Men's Health",
+        "Sexual Health",
+        "Trimix 150/5/50 per 5mL",
+        "TriMix Injections",
+        "Vial",
+        "Injection",
+        "Sterile Compounded"
+      ]
+    },
+    {
+      "id": "vitamin-d3",
+      "slug": "vitamin-d3",
+      "name": "Vitamin D3",
+      "card": {
+        "title": "Vitamin D3",
+        "dosage_forms": [
+          "Injection"
+        ]
+      },
+      "filters": {
+        "categories": [
+          "General Wellness & Nutrient Support"
+        ],
+        "dosage_forms": [
+          "Injection"
+        ],
+        "availability": [
+          "Sterile Compounded"
+        ]
+      },
+      "detail": {
+        "title": "Vitamin D3",
+        "available_options": [
+          {
+            "dosage_form": "Injection",
+            "packaging": "Vial",
+            "strengths": [
+              "000 IU/mL"
+            ],
+            "availability": [
+              "Sterile Compounded"
+            ],
+            "sterile": true,
+            "catalog_names": [
+              "Vitamin D3 Inj. 50,000 IU/mL (16mL)"
+            ]
+          }
+        ],
+        "catalog_classifications": [
+          "OTHER"
+        ]
+      },
+      "search_terms": [
+        "Vitamin D3",
+        "General Wellness & Nutrient Support",
+        "Vial (2 X 8Ml)",
+        "Vitamin D3 50,",
+        "Injection",
+        "Vial",
+        "Sterile Compounded"
+      ]
+    }
+  ]
+}
