@@ -149,6 +149,7 @@ h2 { font-size: clamp(32px, 4vw, 48px); letter-spacing: -.025em; }
 .catalog-toolbar { min-height: 52px; margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center; gap: 24px; }
 .catalog-search-field { width: min(340px, 100%); margin-left: auto; }
 .catalog-pagination { display: flex; gap: 8px; }
+.catalog-pagination-bottom { margin-top: 28px; justify-content: center; }
 .catalog-page-button { width: 42px; height: 42px; color: var(--tm-black); background: var(--tm-white); border: 1px solid transparent; border-radius: 4px; font: inherit; font-weight: 700; cursor: pointer; }
 .catalog-page-button:hover { color: var(--tm-blue); border-color: var(--tm-blue); }
 .catalog-page-button.active { color: var(--tm-white); background: var(--tm-blue); border-color: var(--tm-blue); }
@@ -243,6 +244,14 @@ footer { padding: 64px 0 22px; color: white; background: var(--tm-black); }
 .footer-bottom p { margin: 0; }
 .footer-bottom div { display: flex; gap: 20px; }
 .footer-bottom .privacy-link { color: #c5cbd1; font-size: 13px; text-decoration: underline; }
+.footer-bottom .back-to-top {
+  color: var(--tm-white);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.footer-bottom .back-to-top:hover { color: #c5cbd1; }
 .footer-bottom .review-button {
   padding: 8px 14px;
   color: var(--tm-white);

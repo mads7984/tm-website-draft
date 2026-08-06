@@ -1,6 +1,9 @@
 const catalogRoot = document.querySelector('#product-catalog');
 const catalogCount = document.querySelector('#catalog-count');
-const pagination = document.querySelector('#catalog-pagination');
+const paginationContainers = [
+  document.querySelector('#catalog-pagination'),
+  document.querySelector('#catalog-pagination-bottom'),
+];
 const searchInput = document.querySelector('#catalog-search');
 const categoryFilters = document.querySelector('#category-filters');
 const dosageFilters = document.querySelector('#dosage-filters');
@@ -162,23 +165,25 @@ if (catalogData && Array.isArray(catalogData.products)) {
   let currentPage = 1;
 
   const renderPagination = (pageCount) => {
-    pagination.replaceChildren();
+    paginationContainers.forEach((container) => container.replaceChildren());
     if (pageCount <= 1) return;
 
-    for (let page = 1; page <= pageCount; page += 1) {
-      const button = makeElement('button', 'catalog-page-button', String(page));
-      button.type = 'button';
-      button.setAttribute('aria-label', `Page ${page}`);
-      if (page === currentPage) {
-        button.classList.add('active');
-        button.setAttribute('aria-current', 'page');
+    paginationContainers.forEach((container) => {
+      for (let page = 1; page <= pageCount; page += 1) {
+        const button = makeElement('button', 'catalog-page-button', String(page));
+        button.type = 'button';
+        button.setAttribute('aria-label', `Page ${page}`);
+        if (page === currentPage) {
+          button.classList.add('active');
+          button.setAttribute('aria-current', 'page');
+        }
+        button.addEventListener('click', () => {
+          currentPage = page;
+          renderCatalog();
+        });
+        container.append(button);
       }
-      button.addEventListener('click', () => {
-        currentPage = page;
-        renderCatalog();
-      });
-      pagination.append(button);
-    }
+    });
   };
 
   const renderCatalog = () => {

@@ -57,141 +57,6 @@ window.MEDICATION_CATALOG = {
   },
   "products": [
     {
-      "id": "5-amino-mots-c-nad",
-      "slug": "5-amino-mots-c-nad",
-      "name": "5-Amino / MOTS-C / NAD+",
-      "card": {
-        "title": "5-Amino / MOTS-C / NAD+",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Healthy Aging & Longevity",
-          "Athletic Performance & Recovery",
-          "Metabolic Health"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "5-Amino / MOTS-C / NAD+",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Pen",
-            "strengths": [
-              "2.5 mg / 10 mg / 50 mg/mL",
-              "5 mg / 10 mg / 50 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "5-Amino / MOTS-C / NAD+ Inj. 2.5mg/10mg/50mg/mL (2.5mL)",
-              "5-Amino / MOTS-C / NAD+ Inj. 5mg/10mg/50mg/mL (2.5mL)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "5-Amino / MOTS-C / NAD+",
-        "Athletic Performance & Recovery",
-        "Healthy Aging & Longevity",
-        "Metabolic Health",
-        "NAD",
-        "Pen",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
-      "id": "5-amino-nad",
-      "slug": "5-amino-nad",
-      "name": "5-Amino / NAD+",
-      "card": {
-        "title": "5-Amino / NAD+",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Healthy Aging & Longevity",
-          "Metabolic Health"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "5-Amino / NAD+",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Pen",
-            "strengths": [
-              "2.5 mg / 25 mg/mL",
-              "2.5 mg / 50 mg/mL",
-              "5 mg / 50 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "5-Amino / NAD+ Inj. 2.5mg/50mg/mL (2.5mL)",
-              "5-Amino / NAD+ Inj. 2.5mg/25mg/mL (2.5mL) (Pen)",
-              "5-Amino / NAD+ Inj. 5mg/50mg/mL (2.5mL) (Pen)"
-            ]
-          },
-          {
-            "dosage_form": "Injection",
-            "packaging": "Vial",
-            "strengths": [
-              "2.5 mg / 25 mg/mL",
-              "2.5 mg / 50 mg/mL",
-              "5 mg / 50 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "5-Amino / NAD+ Inj. 2.5mg/50mg/mL (2.5mL)",
-              "5-Amino / NAD+ Inj. 5mg/50mg/mL (2.5mL) (Vial)",
-              "5-Amino / NAD+ Inj. 2.5mg/25mg/mL (2.5mL) (Vial)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "5-Amino / NAD+",
-        "Healthy Aging & Longevity",
-        "Metabolic Health",
-        "NAD",
-        "Pen",
-        "Vial",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
       "id": "benadryl-maalox-lidocaine-1-1-1",
       "slug": "benadryl-maalox-lidocaine-1-1-1",
       "name": "Benadryl/Maalox/Lidocaine (1:1:1)",
@@ -218,7 +83,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Suspension",
             "packaging": "Suspension",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -575,7 +442,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Capsule",
             "packaging": "Capsule",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -629,7 +498,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Dropper",
             "packaging": "Dropper",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -680,7 +551,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Cream",
             "packaging": "Topi-Click",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -1332,7 +1205,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Injection",
             "packaging": "Vial",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Manufactured"
             ],
@@ -2685,7 +2560,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Powder",
             "packaging": "Powder",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -3148,272 +3025,6 @@ window.MEDICATION_CATALOG = {
       ]
     },
     {
-      "id": "sermorelin-bpc-157-tb-500",
-      "slug": "sermorelin-bpc-157-tb-500",
-      "name": "Sermorelin / BPC-157 / TB-500",
-      "card": {
-        "title": "Sermorelin / BPC-157 / TB-500",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Athletic Performance & Recovery",
-          "Healthy Aging & Longevity"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "Sermorelin / BPC-157 / TB-500",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Pen",
-            "strengths": [
-              "2 mg / 3 mg / 3.75 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin Inj. 3mg/mL (2.2mL)",
-              "Sermorelin / BPC-157 / TB-500 2mg/3mg/3.75mg/mL (4.5mL)"
-            ]
-          },
-          {
-            "dosage_form": "Injection",
-            "packaging": "Vial",
-            "strengths": [
-              "2 mg / 3 mg / 3.75 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
-              "Sermorelin Inj. 3mg/mL (2.2mL)",
-              "Sermorelin / BPC-157 / TB-500 2mg/3mg/3.75mg/mL (4.5mL)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "Sermorelin / BPC-157 / TB-500",
-        "Athletic Performance & Recovery",
-        "Healthy Aging & Longevity",
-        "Pen",
-        "Sermorelin",
-        "Sermorelin / BPC-157 / TB5-500",
-        "Sermorelin Acetate",
-        "Vial",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
-      "id": "sermorelin-glycine",
-      "slug": "sermorelin-glycine",
-      "name": "Sermorelin / Glycine",
-      "card": {
-        "title": "Sermorelin / Glycine",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Healthy Aging & Longevity",
-          "Athletic Performance & Recovery",
-          "Restorative Sleep"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "Sermorelin / Glycine",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Pen",
-            "strengths": [
-              "5 mg / 12.5 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin Inj. 3mg/mL (2.2mL)",
-              "Sermorelin/Glycine 5mg/12.5mg/mL (2.4mL)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "Sermorelin / Glycine",
-        "Athletic Performance & Recovery",
-        "Healthy Aging & Longevity",
-        "Pen",
-        "Restorative Sleep",
-        "Sermorelin",
-        "Sermorelin Acetate",
-        "Sermorelin/Glycine (Ion Layer)",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
-      "id": "sermorelin-ipamorelin",
-      "slug": "sermorelin-ipamorelin",
-      "name": "Sermorelin / Ipamorelin",
-      "card": {
-        "title": "Sermorelin / Ipamorelin",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Healthy Aging & Longevity",
-          "Athletic Performance & Recovery",
-          "Hormone Therapy"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "Sermorelin / Ipamorelin",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Pen",
-            "strengths": [
-              "0.3 mg"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin/Ipamorelin Inj. 0.3mg/0.3mg (2mL)",
-              "Sermorelin Inj. 3mg/mL (2.2mL)"
-            ]
-          },
-          {
-            "dosage_form": "Injection",
-            "packaging": "Vial",
-            "strengths": [
-              "0.3 mg"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin/Ipamorelin Inj. 0.3mg/0.3mg (2mL)",
-              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
-              "Sermorelin Inj. 3mg/mL (2.2mL)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "Sermorelin / Ipamorelin",
-        "Athletic Performance & Recovery",
-        "Healthy Aging & Longevity",
-        "Hormone Therapy",
-        "Pen",
-        "Sermorelin",
-        "Sermorelin Acetate",
-        "Sermorelin/Ipamorelin",
-        "Vial",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
-      "id": "sermorelin-mots-c-epitalon",
-      "slug": "sermorelin-mots-c-epitalon",
-      "name": "Sermorelin / MOTS-C / Epitalon",
-      "card": {
-        "title": "Sermorelin / MOTS-C / Epitalon",
-        "dosage_forms": [
-          "Injection"
-        ]
-      },
-      "filters": {
-        "categories": [
-          "Healthy Aging & Longevity",
-          "Athletic Performance & Recovery"
-        ],
-        "dosage_forms": [
-          "Injection"
-        ],
-        "availability": [
-          "Sterile Compounded"
-        ]
-      },
-      "detail": {
-        "title": "Sermorelin / MOTS-C / Epitalon",
-        "available_options": [
-          {
-            "dosage_form": "Injection",
-            "packaging": "Vial",
-            "strengths": [
-              "1 mg / 5 mg / 2.5 mg/mL"
-            ],
-            "availability": [
-              "Sterile Compounded"
-            ],
-            "sterile": true,
-            "catalog_names": [
-              "Sermorelin Inj. 3mg/mL (6.5mL Total)",
-              "Sermorelin Inj. 3mg/mL (2.2mL)",
-              "Sermorelin / MOTS-C / Epitalon 1mg/5mg/2.5mg/mL (8.5mL)"
-            ]
-          }
-        ],
-        "catalog_classifications": [
-          "PEPTIDES AND/OR WEIGHT LOSS THERAPIES"
-        ]
-      },
-      "search_terms": [
-        "Sermorelin / MOTS-C / Epitalon",
-        "Athletic Performance & Recovery",
-        "Healthy Aging & Longevity",
-        "Sermorelin",
-        "Sermorelin Acetate",
-        "Vial",
-        "Injection",
-        "Sterile Compounded"
-      ]
-    },
-    {
       "id": "sodium-bicarbonate",
       "slug": "sodium-bicarbonate",
       "name": "Sodium Bicarbonate",
@@ -3571,7 +3182,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Gel",
             "packaging": "Gel",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Non-Sterile Compounded"
             ],
@@ -4023,7 +3636,9 @@ window.MEDICATION_CATALOG = {
           {
             "dosage_form": "Injection",
             "packaging": "Vial",
-            "strengths": [],
+            "strengths": [
+
+            ],
             "availability": [
               "Sterile Compounded"
             ],
