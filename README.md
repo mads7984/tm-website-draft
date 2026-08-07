@@ -1,6 +1,6 @@
 # Tower Medic Pharmacy Website
 
-A responsive, multi-page website for Tower Medic Pharmacy. The site is built with plain HTML, CSS, and JavaScript and does not require a build system or external framework.
+A responsive, multi-page website for Tower Medic Pharmacy. The site is built with plain HTML, CSS, and JavaScript and does not require a build system or external framework. This will be recreated in Divi Builder.
 
 ## Pages
 
